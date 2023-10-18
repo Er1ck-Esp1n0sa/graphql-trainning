@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - image: okteto.dev/graphql-erick:latest
-        name: erick
+        name: graphql-erick
         #envFrom:
         #- configMapRef:
         #    name: erick-config
