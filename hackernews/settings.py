@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'cczaldgn',
         'USER': 'cczaldgn',
         'PASSWORD': 'GhRXUgc7BLIV0und7AyTamccJp8HSOCV',
-        'HOST': 'chunee.db.elephantsql.com ',
+        'HOST': 'chunee.db.elephantsql.com',
         'PORT': '5432',
     },
     'test': {
